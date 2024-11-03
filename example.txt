@@ -1,0 +1,5 @@
+Public class m {
+Public static void main(string []args) {
+system.out.println("hello mind");
+}
+}
